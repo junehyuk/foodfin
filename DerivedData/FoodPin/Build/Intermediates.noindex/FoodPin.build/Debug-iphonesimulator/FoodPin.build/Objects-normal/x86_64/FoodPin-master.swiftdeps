@@ -1,0 +1,21 @@
+version: "Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)"
+options: "7c210285ad91bfaec743ad1cdc75c0a36a39d4994ee93a2203d801d0d6081829"
+build_start_time: [1638116132, 100098133]
+build_end_time: [1638116139, 219897985]
+inputs:
+  "/Users/june/Desktop/FoodPinStaticTable/FoodPin/AppDelegate.swift": [1511660750, 0]
+  "/Users/june/Desktop/FoodPinStaticTable/FoodPin/Controller/MapViewController.swift": [1511660845, 0]
+  "/Users/june/Desktop/FoodPinStaticTable/FoodPin/Controller/NewRestaurantController.swift": [1511660832, 0]
+  "/Users/june/Desktop/FoodPinStaticTable/FoodPin/Controller/RestaurantDetailViewController.swift": [1511660852, 0]
+  "/Users/june/Desktop/FoodPinStaticTable/FoodPin/Controller/RestaurantTableViewController.swift": [1511663488, 0]
+  "/Users/june/Desktop/FoodPinStaticTable/FoodPin/Controller/ReviewViewController.swift": [1511660840, 0]
+  "/Users/june/Desktop/FoodPinStaticTable/FoodPin/Extensions/UIColor+Ext.swift": [1511660700, 0]
+  "/Users/june/Desktop/FoodPinStaticTable/FoodPin/Extensions/UINavigationController+Ext.swift": [1511660708, 0]
+  "/Users/june/Desktop/FoodPinStaticTable/FoodPin/Model/Restaurant.swift": [1511660724, 0]
+  "/Users/june/Desktop/FoodPinStaticTable/FoodPin/View/RestaurantDetailHeaderView.swift": [1511660741, 0]
+  "/Users/june/Desktop/FoodPinStaticTable/FoodPin/View/RestaurantDetailIconTextCell.swift": [1511660881, 0]
+  "/Users/june/Desktop/FoodPinStaticTable/FoodPin/View/RestaurantDetailMapCell.swift": [1511660866, 0]
+  "/Users/june/Desktop/FoodPinStaticTable/FoodPin/View/RestaurantDetailSeparatorCell.swift": [1511660872, 0]
+  "/Users/june/Desktop/FoodPinStaticTable/FoodPin/View/RestaurantDetailTextCell.swift": [1511660877, 0]
+  "/Users/june/Desktop/FoodPinStaticTable/FoodPin/View/RestaurantTableViewCell.swift": [1511660734, 0]
+  "/Users/june/Desktop/FoodPinStaticTable/FoodPin/View/RoundedTextField.swift": [1511660860, 0]

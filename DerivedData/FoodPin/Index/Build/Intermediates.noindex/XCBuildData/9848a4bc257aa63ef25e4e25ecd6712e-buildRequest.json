@@ -1,0 +1,61 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "410175fb2ab0b1693fe83f56107c2c607208d0005aca01da33d9daf88a47aea7"
+    }
+  ],
+  "containerPath" : "/Users/june/Desktop/FoodPinStaticTable/FoodPin.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos15.0",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "x86_64",
+        "arm64e",
+        "arm64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/june/Desktop/FoodPinStaticTable/DerivedData/FoodPin/Index/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/june/Desktop/FoodPinStaticTable/DerivedData/FoodPin/Index/Build/Products",
+      "derivedDataPath" : "/Users/june/Desktop/FoodPinStaticTable/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/june/Desktop/FoodPinStaticTable/DerivedData/FoodPin/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/june/Desktop/FoodPinStaticTable/DerivedData/FoodPin/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/june/Desktop/FoodPinStaticTable/DerivedData/FoodPin/Index/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/june/Desktop/FoodPinStaticTable/DerivedData/FoodPin/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
